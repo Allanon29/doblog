@@ -56,5 +56,5 @@ production:
   encoding: unicode
   database: doblog_production
   pool: 5
-  username: doblog
-  password:
+  username: blog
+  password: valamieros
